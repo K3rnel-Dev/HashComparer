@@ -12,5 +12,13 @@
   <img alt="screen" width="300" src="2.png">
 </p> 
 
+
+### 🤖 Alogrithms:
+ * MD5
+ * SHA1
+ * SHA256
+ * CRC32
+
+
 ## ✨ End
 <strong>Thanks for watching this repository!</strong>
